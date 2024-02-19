@@ -37,11 +37,11 @@
  #setUsernameButton,
  #copyUserID,
  #submitUsername {
-   color: var(--sb-main-fg-color);
-   background: transparent;
-   width: fit-content;
-   padding: 0;
-   border: none;
+  color: var(--sb-main-fg-color);
+  background: transparent;
+  width: fit-content;
+  padding: 0;
+  border: none;
  }
 
 /*
@@ -468,7 +468,7 @@
 #sponsorTimesContributionsDisplay {
   font-size: 16px;
 }
- /*
+/*
  * Improve alignment of username and submissions
  */
 #usernameElement > p,
